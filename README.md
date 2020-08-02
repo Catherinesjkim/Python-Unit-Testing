@@ -1,0 +1,2 @@
+# Python-Unit-Testing
+Following along Corey Schafer's Youtube Tutorials to practice how to unit-test my code using the unittest module. Unit testing will allow me to be more comfortable with refactoring and knowing whether or not my updates broke any of my existing code. Unit testing is a must on any large projects and is used by all major companies. Not only that, but it will greatly improve my personal code as well. Let's get started!
